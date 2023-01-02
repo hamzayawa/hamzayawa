@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://hamzayawa.github.io/)
 <h1 align="center">Hi 👋, I'm Hamza Abdullahi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-RQNfjiGxSkOoRtAJR1IG3lCX-Vh8L5702Q&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayawa&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayawa" /> </p>
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Software Engineering, Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamzayawa](https://github.com/hamzayawa)
-
-- 💬 Ask me about **Vim, Programming in C, Python**
 
 - 📫 How to reach me **https://hamzayawa.github.io/**
 

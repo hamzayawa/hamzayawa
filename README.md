@@ -1,4 +1,4 @@
-<h1 align="center">:surfer: Hamza Abdullahi</h1>
+<h1 align="center">Hi :surfer:, I'm Hamza Abdullahi</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=24C32D&center=true&vCenter=true&width=960&lines=A+Passionate+Software+Engineer;Learning+Programming+in+C%2C+Python;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things" alt="Typing SVG" /></a>
 

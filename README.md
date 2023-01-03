@@ -25,5 +25,7 @@
 <hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzayawa&show_icons=true&locale=en&layout=compact" alt="hamzayawa" /></p>
+<br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&locale=en" alt="hamzayawa" /></p>
 

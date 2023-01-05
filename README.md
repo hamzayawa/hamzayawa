@@ -1,6 +1,6 @@
 <h1 align="center">Hi :surfer:, I'm Hamza Abdullahi</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=24C32D&center=true&vCenter=true&width=960&lines=A+Passionate+Software+Engineer;Learning+Programming+in+C%2C+Python;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ff652f&center=true&vCenter=true&width=960&lines=A+Passionate+Software+Engineer;Learning+Programming+in+C%2C+Python;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things" alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 <br/>
@@ -27,9 +27,9 @@
 
 #### ML/DL
 
-![NumPy](https://img.shields.io/badge/numpy-00000F?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-00000F?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-00000F?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-ff652f?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-ff652f?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-ff652f?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Database
 
@@ -40,11 +40,11 @@
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![BootStrap](https://img.shields.io/badge/Bootstrap-00000F?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-00000F?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-ff652f?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-ff652f?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![BootStrap](https://img.shields.io/badge/Bootstrap-ff652f?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-ff652f?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-ff652f?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; 
 ![Django](https://img.shields.io/badge/Django-00000F?style=for-the-badge&logo=django&logoColor=green)&nbsp;
@@ -63,13 +63,13 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/coachbabaa)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://hamzayawa.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/hamza_yawa) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/hamza-abdullahi-yawa/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/coachbabaa)
-[<img src="https://img.shields.io/badge/Facebook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/coachbabaa)
- [<img src="https://img.shields.io/badge/GitLab-%2312100E.svg?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/hamzayawa)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=ff652f" />](https://www.kaggle.com/coachbabaa)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=ff652f">](https://hamzayawa.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=ff652f" />](https://twitter.com/hamza_yawa) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ff652f" />](https://www.linkedin.com/in/hamza-abdullahi-yawa/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=ff652f" />](https://instagram.com/coachbabaa)
+[<img src="https://img.shields.io/badge/Facebook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white&color=ff652f" />](https://web.facebook.com/coachbabaa)
+ [<img src="https://img.shields.io/badge/GitLab-%2312100E.svg?style=for-the-badge&logo=gitlab&logoColor=white&color=ff652f" />](https://gitlab.com/hamzayawa)
 </p>
 
 <hr/>

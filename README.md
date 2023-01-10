@@ -7,7 +7,7 @@
 <p align="center"> 
 <a href="https://twitter.com/hamza_yawa" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_yawa?color=1DA1F2&logo=twitter&style=for-the-badge" alt="hamza_yawa" /></a>
 <a href="https://hamzayawa.github.io" target="blank"><img src="https://img.shields.io/website?label=HamzaYawa&style=for-the-badge&url=https%3A%2F%2Fhamzayawa.github.io" alt="hamzayawa" /></a>
-<a href="https://www.youtube.com/channel/UCMHODstcQSCydCwIJNhQBaQ" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?logo=youtube&logoColor=red&style=for-the-badge" alt="techyawa" /></a> 
+<a href="https://www.youtube.com/@hamzayawa" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?logo=youtube&logoColor=red&style=for-the-badge" alt="techyawa" /></a> 
 </p>
 <hr/>
 

@@ -7,7 +7,10 @@
 <p align="center"> 
 <a href="https://twitter.com/hamza_yawa" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_yawa?color=1DA1F2&logo=twitter&style=for-the-badge" alt="hamza_yawa" /></a>
 <a href="https://hamzayawa.github.io" target="blank"><img src="https://img.shields.io/website?label=HamzaYawa&style=for-the-badge&url=https%3A%2F%2Fhamzayawa.github.io" alt="hamzayawa" /></a>
-<a href="https://www.youtube.com/@hamzayawa" target="blank"><img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logo=youtube&logoColor=red&style=for-the-badge" alt="hamzayawa" /></a> 
+<a href="https://www.youtube.com/@hamzayawa?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/@hamzayawa">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCMHODstcQSCydCwIJNhQBaQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </p>
 <hr/>
 
@@ -73,20 +76,51 @@
 </p>
 
 <hr/>
-
+<!--
 <details>
   <summary>:zap: GitHub Top Languages</summary>
 
   <img align="left" alt="hamzayawa GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzayawa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+-->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <img align="left" alt="hamzayawa GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HamzaYawa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamzayawa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hamzayawa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamzayawa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hamzayawa's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hamzayawa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+<!--
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@hamzayawa"><img src="https://holopin.me/hamzayawa" alt="@hamzayawa&#39;s Holopin board"></a></p>
+</details>
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzayawa" alt="hamzayawa" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayawa&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayawa" /> </p>

@@ -119,6 +119,8 @@
   <p><a href="https://holopin.io/@hamzayawa"><img src="https://holopin.me/hamzayawa" alt="@hamzayawa&#39;s Holopin board"></a></p>
 </details>
 -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzayawa" alt="hamzayawa" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzayawa" alt="hamzayawa" /></a> </p>
+-->
+![trophy](https://github-profile-trophy.vercel.app/?username=hamzayawa&theme=onedark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzayawa&label=Profile%20views&color=0e75b6&style=flat" alt="hamzayawa" /> </p>

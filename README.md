@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=A+Passionate+Software+Engineer;Learning+Programming+in+C%2C+Python;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=ff652f">
 </p>
 
-
 <!-- Social icons section -->
-<br/>
 <p align="center"> 
 <a href="https://twitter.com/hamza_yawa" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_yawa?color=1DA1F2&logo=twitter&style=for-the-badge" alt="hamza_yawa" /></a>
 <a href="https://hamzayawa.github.io" target="blank"><img src="https://img.shields.io/website?label=HamzaYawa&style=for-the-badge&url=https%3A%2F%2Fhamzayawa.github.io" alt="hamzayawa" /></a>

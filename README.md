@@ -67,7 +67,7 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=ff652f" />](https://www.kaggle.com/coachbabaa)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=ff652f" />](https://www.kaggle.com/coachbaba)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=ff652f">](https://hamzayawa.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=ff652f" />](https://twitter.com/hamza_yawa) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=ff652f" />](https://www.linkedin.com/in/hamza-abdullahi-yawa/)

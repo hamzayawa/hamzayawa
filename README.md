@@ -44,7 +44,7 @@
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-ff652f?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-bad8b6?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-ff652f?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![BootStrap](https://img.shields.io/badge/Bootstrap-ff652f?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-ff652f?style=for-the-badge&logo=docker&logoColor=white)&nbsp;

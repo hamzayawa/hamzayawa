@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ff652f&center=true&vCenter=true&width=960&lines=A+Passionate+Software+Engineer%2C;Learning+C+Programming+%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things" alt="Typing SVG" /></a>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+Passionate+Software+Engineer%2C;Learning+Programming+in+C%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Learning+Data+(Analysis%2C+Engineering);Always+Learning+New+Things&font=Fira%20Code&center=true&width=460&height=50&duration=4000&pause=1000&color=D3D3D3">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+Passionate+Software+Engineer%2C;Learning+Programming+in+C%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Learning+Data+(Analysis%2C+Engineering);Always+Learning+New+Things&font=Fira%20Code&center=true&width=460&height=50&duration=4000&pause=1000&color=A9A9A9">
 </p>
 
 <!-- Social icons section -->
@@ -11,7 +11,7 @@
 <a href="https://twitter.com/hamza_yawa" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_yawa?color=1DA1F2&logo=twitter&style=for-the-badge" alt="hamza_yawa" /></a>
 <a href="https://hamzayawa.github.io" target="blank"><img src="https://img.shields.io/website?label=HamzaYawa&style=for-the-badge&url=https%3A%2F%2Fhamzayawa.github.io" alt="hamzayawa" /></a>
 <a href="https://www.youtube.com/@hamzayawa?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?color=%00CCCC&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 </p>
 <hr/>
 

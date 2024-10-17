@@ -95,7 +95,9 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hamzayawa's streak" src="https://streak-stats.demolab.com/?user=hamzayawa&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)
+
+  
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)-->
     <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
  
 

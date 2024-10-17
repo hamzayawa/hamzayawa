@@ -21,19 +21,19 @@
 #### Languages:
 
 ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=D3D3D3)&nbsp;
-![C](https://img.shields.io/badge/C-121011?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-121011?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-121011?style=for-the-badge&logo=markdown&logoColor=white)
+![C](https://img.shields.io/badge/C-121011?style=for-the-badge&logo=c&logoColor=D3D3D3)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=D3D3D3)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=D3D3D3)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=D3D3D3)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=D3D3D3)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-121011?style=for-the-badge&logo=latex&logoColor=D3D3D3)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-121011?style=for-the-badge&logo=markdown&logoColor=D3D3D3)
 
 #### ML/DL
 
-![NumPy](https://img.shields.io/badge/numpy-ff652f?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-ff652f?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-ff652f?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-121011?style=for-the-badge&logo=numpy&logoColor=D3D3D3)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-121011?style=for-the-badge&logo=pandas&logoColor=D3D3D3)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-121011?style=for-the-badge&logo=plotly&logoColor=D3D3D3)
 
 #### Database
 

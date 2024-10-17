@@ -11,7 +11,7 @@
 <a href="https://twitter.com/hamza_yawa" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_yawa?color=1DA1F2&logo=twitter&style=for-the-badge" alt="hamza_yawa" /></a>
 <a href="https://hamzayawa.github.io" target="blank"><img src="https://img.shields.io/website?label=HamzaYawa&style=for-the-badge&url=https%3A%2F%2Fhamzayawa.github.io" alt="hamzayawa" /></a>
 <a href="https://www.youtube.com/@hamzayawa?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?color=%00CCCC&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCMHODstcQSCydCwIJNhQBaQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 </p>
 <hr/>
 

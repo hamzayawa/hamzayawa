@@ -77,19 +77,11 @@
 </p>
 
 <hr/>
-<!--
-<details>
-  <summary>:zap: GitHub Top Languages</summary>
-
-  <img align="left" alt="hamzayawa GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzayawa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>  
+ <h3>🔥 Streak Stats</h3>  
 
 <table>
   <tr>
@@ -100,20 +92,19 @@
   
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)-->
  
-
-  <h3>💻 GitHub Profile Stats</h3>
+ <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HamzaYawa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamzayawa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hamzayawa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamzayawa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="HamzaYawa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamzayawa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hamzayawa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamzayawa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/hamzayawa/github-readme-activity-graph"><img alt="hamzayawa's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hamzayawa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hamzayawa/github-readme-activity-graph"><img alt="hamzayawa's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hamzayawa&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 

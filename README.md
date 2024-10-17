@@ -107,17 +107,17 @@
 <a href="https://github.com/hamzayawa/github-readme-stats"><img alt="hamzayawa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamzayawa&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
-[![Hamzayawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzayawa&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/hamzayawa/github-readme-activity-graph)
+[![Hamzayawa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzayawa&theme=rogue&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/hamzayawa/github-readme-activity-graph)
 </details>
 
 
-<!--
+
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@hamzayawa"><img src="https://holopin.me/hamzayawa" alt="@hamzayawa&#39;s Holopin board"></a></p>
 </details>
--->
+
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzayawa" alt="hamzayawa" /></a> </p>
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamzayawa&theme=onedark)

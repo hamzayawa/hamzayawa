@@ -90,12 +90,13 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>  
-<p>
-    <a href="https://github.com/hamzayawa/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hamzayawa's streak" src="https://streak-stats.demolab.com/?user=hamzayawa&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&theme=monokai-metallian"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=monokai-metallian" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=monokai-metallian"/></td>
+  </tr>
+</table>
   
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)-->
  

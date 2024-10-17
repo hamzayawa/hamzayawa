@@ -98,7 +98,6 @@
 
   
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)-->
-    <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
  
 
   <h3>💻 GitHub Profile Stats</h3>

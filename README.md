@@ -85,8 +85,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866""/></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=monokai-metallian" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=monokai-metallian"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=monokai-metallian"/></td>
   </tr>
 </table>
   

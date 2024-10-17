@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ff652f&center=true&vCenter=true&width=960&lines=A+Passionate+Software+Engineer%2C;Learning+C+Programming+%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Data+Analysis%2C+Data+Engineering;Always+Learning+New+Things" alt="Typing SVG" /></a>
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+Passionate+Software+Engineer%2C;Learning+Programming+in+C%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Learning+Data+(Analysis%2C+Engineering);Always+Learning+New+Things&font=Fira%20Code&center=true&width=460&height=50&duration=4000&pause=1000&color=ff652f">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+Passionate+Software+Engineer%2C;Learning+Programming+in+C%2C+Python%2C;Bash+Scripting%2C+CLI%2C+Git+%26+Github;Full-Stack+Web+Developer;Learning+Data+(Analysis%2C+Engineering);Always+Learning+New+Things&font=Fira%20Code&center=true&width=460&height=50&duration=4000&pause=1000&color=D3D3D3">
 </p>
 
 <!-- Social icons section -->
@@ -20,7 +20,7 @@
 
 #### Languages:
 
-![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=D3D3D3)&nbsp;
 ![C](https://img.shields.io/badge/C-121011?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-121011?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -111,13 +111,13 @@
 </details>
 
 
-
+<!--
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@hamzayawa"><img src="https://holopin.me/hamzayawa" alt="@hamzayawa&#39;s Holopin board"></a></p>
 </details>
-
+-->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzayawa" alt="hamzayawa" /></a> </p>
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=hamzayawa&theme=onedark)

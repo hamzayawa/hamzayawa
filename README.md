@@ -115,6 +115,20 @@
 
 </details>
 
+## Metrics 📊
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=hamzayawa&show_icons=true&theme=radical"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=hamzayawa&theme=radical"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=hamzayawa">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamzayawa" />
+  </a>
+</p>
 <!--
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>

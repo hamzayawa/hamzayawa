@@ -90,8 +90,12 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p>
+    <a href="https://github.com/hamzayawa/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hamzayawa's streak" src="https://streak-stats.demolab.com/?user=hamzayawa&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzayawa)](https://git.io/streak-stats)
     <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
  
 

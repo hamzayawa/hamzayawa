@@ -84,20 +84,16 @@
   <img align="left" alt="hamzayawa GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzayawa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
--->
+
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h3>🔥 Streak Stats</h3>  
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/hamzayawa/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hamzayawa's streak" src="https://streak-stats.demolab.com/?user=hamzayawa&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+    <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+ 
 
   <h3>💻 GitHub Profile Stats</h3>
 
